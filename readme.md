@@ -1,5 +1,7 @@
 <h1>Color Picker Tool</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/Color-Picker/</h2>
+
 <p>This project is a simple and interactive <b>Color Picker Tool</b> built using <b>HTML, CSS and JavaScript.</b>It allows the user to pick a color using an input color picker and instantly see the selected color applied to a preview box.</p>
 
 <h2>Features</h2>
